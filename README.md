@@ -1,18 +1,10 @@
-## Getting Started
+# DIO - Desafio Controle de Fluxo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém a solução para o desafio de controle de fluxo. Aqui você encontrará a implementação das estruturas de controle essenciais para o desenvolvimento de sistemas eficientes e lógicos. O objetivo deste projeto é aprimorar habilidades em Java, focando em condições, laços e controle de fluxo.
 
-## Folder Structure
+## Me encontre
 
-The workspace contains two folders by default, where:
+### Joelmir Silva
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[![E-mail : joelmirmanoel80@Gmail.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](joelmirmanoel80@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/joelmir-silva-451052134/)

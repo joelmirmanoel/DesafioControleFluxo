@@ -23,7 +23,7 @@ public class Contador {
         } catch (ParametrosInvalidosException e) {
             System.out.println("Error "+ e.getMessage());
         } catch (Exception e) { //capturar qualquer outro erro
-            System.out.println("Ocorreu um erro inesperado "+ e.getMessage());
+            System.out.println("Ocorreu um erro inesperado " + e.getMessage());
         } finally {
             scanner.close();
         }
