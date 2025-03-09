@@ -5,13 +5,13 @@ public class Contador {
         Scanner scanner = new Scanner(System.in);
 
         try {
-            System.out.println("Digite o primeiro número: ");
+            System.out.println("Digite o primeiro parâmetro: ");
             int numero1 = scanner.nextInt();
-            System.out.println("Digite o segundo número: ");
+            System.out.println("Digite o segundo parâmetro: ");
             int numero2 = scanner.nextInt();
 
             if (numero1 > numero2) {
-                throw new ParametrosInvalidosException("O segundo valor é inválido, este deve ser maior que o primeiro");
+                throw new ParametrosInvalidosException("O segundo parâmetro deve ser maior que o primeiro");
             }
 
             int quantidadeInteracoes = numero2 - numero1;
@@ -22,7 +22,7 @@ public class Contador {
 
         } catch (ParametrosInvalidosException e) {
             System.out.println("Error "+ e.getMessage());
-        } catch (Exception e) { //capturar qualquer outro erro
+        } catch (Exception e) {
             System.out.println("Ocorreu um erro inesperado " + e.getMessage());
         } finally {
             scanner.close();
